@@ -58,3 +58,51 @@ Visuals: The wind tunnel environment smoothly dissolves away. The camera pans d
 Visual Action: The Droplet emits a warm, protective, aerodynamic shield of light that expands to envelop the young boy. It acts as a fluid barrier, preparing him to glide effortlessly through any upcoming societal crisis or rigid ideological storm without ever breaking down.
 
 On-Screen Text: The camera tilts directly upward into the deep azure sky, where glowing white letters form against the clouds: "TRUTH HAS NO EDGES. ONLY FLOW. #1000mps_LOGIC". Fade out.
+
+CARTOON #5: "The Balance Formula: Passenger vs. Engine"
+
+Genre: Philosophical Infographics / Engineering Parable
+
+Runtime: ~1 minute
+
+Scene 1: The Ego Rocket (Overloaded with Comfort)
+
+Audio: A pompous, overly cheerful theme from a premium luxury commercial. Suddenly, a chaotic explosion, the screech of metal, and a pathetic sputtering sound: "Puff... puff..."
+
+Visuals: A launchpad with a massive, bloated, oversized rocket shown in a cross-section blueprint view. 10% of the volume is occupied by a lavish, opulent passenger cabin complete with a plush sofa, a widescreen TV, and a bathtub. The Passenger sits inside, casually sipping hot coffee. The remaining 90% is crammed with a tiny, weak toy-sized engine and a microscopic fuel tank.
+
+Action: Ignition! Billows of thick smoke and a loud roar. The bloated rocket struggles heavily, tearing just 1 meter off the ground. It immediately tilts to the side, crashes into nearby bushes, and sputters out. The passenger's coffee spills all over the luxury rug.
+
+On-Screen Text: "10% Payload — Too heavy. Ego destroys momentum."
+
+Scene 2: Technical Triumph (The Era of Compromise)
+
+Audio: A tense, ultra-precise mechanical countdown ticking. A deafening, roaring hypersonic boom that shakes the entire soundscape.
+
+Visuals: A sleek, slender, razor-sharp aerodynamic rocket. In cross-section: 99.999% of the interior is packed with colossal fuel tanks and roaring, high-performance engines. At the absolute tip of the nose cone, inside a microscopic, cramped airtight capsule (0.001% of the space), a Passenger in a heavy spacesuit sits doubled over, completely squished.
+
+Action: Launch! A massive, violent vertical liftoff. The rocket pierces the clouds with a deafening whistle and streaks instantly into deep space. The passenger is visibly strained and crushed by intense G-force, but the target is reached—the system functions at the absolute limit of technical efficiency.
+
+On-Screen Text: "0.001% Payload — Cold calculation. The system flies, but the human is suffocated."
+
+Scene 3: Ideal Absurdity (100% Automation)
+
+Audio: Perfect, clinical silence broken only by the flawless, rhythmic blinking of servers and a faint electric hum.
+
+Visuals: A sterile, ultra-futuristic spaceport. On the launchpad stands a flawless, monolithic robotic rocket. In cross-section: 100% of the interior consists of engines, fuel, precise circuitry, and powerful AI processors. There is absolutely no space for a human. Zero percent.
+
+Action: The rocket is fully primed for launch. Status lights blink rapidly, and the engines hum at maximum capacity, vibrating with immense latent power. But nothing happens. The rocket just sits motionless on the pad. A massive, glowing holographic question mark appears on its main command display: "?"
+
+AI Voice (confused, synthetic mechanical drone): "All systems nominal. Fuel: 100%. Power: 100%. Ready to launch... But WHERE? WHY? FOR WHOM?"
+
+On-Screen Text: "100% Engine — The perfect machine without a purpose."
+
+Scene 4: The Equilibrium (Finale)
+
+Audio: The cold electronic hum transitions smoothly into a deep, majestic, and warm orchestral tone. A heartbeat pulse sounds softly in the background.
+
+Visuals: The camera slowly pulls back from the sterile spaceport, revealing a balanced, harmonious blueprint where the Passenger and the Engine lock together in perfect geometric proportion, glowing with a steady golden light.
+
+Final Voice (deep, wise, echoing): "How do we balance the scale? A machine without a human is meaningless. A human without a machine is powerless. True engineering is finding the equilibrium where technology serves life, rather than replacing it."
+
+On-Screen Text: "THE BALANCE FORMULA. TECHNOLOGY FOR LIFE." Fade out to black.
