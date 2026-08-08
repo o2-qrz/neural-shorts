@@ -106,3 +106,54 @@ Visuals: The camera slowly pulls back from the sterile spaceport, revealing a b
 Final Voice (deep, wise, echoing): "How do we balance the scale? A machine without a human is meaningless. A human without a machine is powerless. True engineering is finding the equilibrium where technology serves life, rather than replacing it."
 
 On-Screen Text: "THE BALANCE FORMULA. TECHNOLOGY FOR LIFE." Fade out to black.
+
+
+CARTOON #6: "The Desert Chest: Where the Drachmas Go"
+
+Genre: Socio-Economic Parable / Satirical Drama
+
+Runtime: ~1.5 minutes
+
+Scene 1: Sweat and Brocade
+
+Audio: Heavy, raspy breathing. The straining creak of tight ropes. In the background, relaxing Middle Eastern music plays alongside the bubbling of a hookah and the jingling of women's bracelets.
+
+Visuals: An endless, scorching desert wasteland. A gaunt, exhausted Young Man, drenched in sweat, painfully drags a massive, iron-bound, incredibly heavy chest packed with golden drachmas behind him on a harness.
+
+Action: The camera pans sideways to reveal a luxurious oasis. In the shade of a silk tent, a fat Man in rich brocade, heavy gold beads, and expensive rings lounges on silk pillows. He holds a smoking hookah in one hand and an ultra-modern smartphone in the other. Exotic dancers move around him, and tables nearby overflow with lavish food.
+
+Dialogue: The Man in brocade yells into his phone while lazily scratching his stomach: "Hello! Yes, wire the transfer! We need to clear the yacht loan immediately! And don't forget to pay out the shareholder dividends—the market demands growth indicators!"
+
+Scene 2: The Point of No Return
+
+Audio: The music inside the tent abruptly stops. Only the dry, hollow whistling of the desert wind can be heard.
+
+Visuals: The Young Man crawls up to the tent and collapses to his knees before the fat man. His lips are severely cracked from dehydration. He points at the heavy chest, which is locked tight with an enormous padlock.
+
+Dialogue: The Young Man cries out in a hoarse, fading whisper: "Master... Give me water! Help me open the chest! There is gold inside—let’s put it to work, invest it!"
+
+Dialogue: The Man in brocade, without even looking at the young man, dismissively waves his hand holding the phone: "Get out of here, don't interrupt! Can't you see I'm doing business? I have stock quotes to monitor! Move along!"
+
+Scene 3: Turning East
+
+Audio: A sharp, powerful strike of a gong. The music instantly shifts into a heavy, rhythmic thumping of Asian war drums.
+
+Visuals: The Young Man's eyes flash with pure determination. He suddenly stands up, straightening his back. He grips the chest's ropes, turns 180 degrees away from the tent, and walks with a confident stride deep into the desert. On the distant horizon, piercing through a raging sandstorm, the silhouettes of the Great Wall of China and the smoking chimneys of massive modern factories begin to emerge.
+
+On-Screen Text: "And so, the young man dragged the chest to China..."
+
+Visual Action: The camera cuts back to the tent. The oasis has completely dried up into cracked mud. The dancers have fled. The tables are stripped bare. The fat Man in brocade sits directly on the filthy sand; his hookah has gone cold, and his phone screen blinks with a warning: "Connection Lost. Balance: 0. Out of Service Area."
+
+Scene 4: The Illusion of Rescue and the Era of the Cooks (Finale)
+
+Audio: The heavy gong strike transitions into a monotonous, crushing drone of hydraulic presses and the roaring clatter of factory conveyor belts.
+
+Visuals: The Young Man drags the heavy chest right up to the gates of a gargantuan Chinese industrial plant. The gates slide open. Large robotic manipulators instantly and soullessly rip the chest out of his hands. A laser beam shears the padlock off, and the golden drachmas are immediately melted down into faceless, identical bullion bars.
+
+Action: Swaying heavily from dehydration, the Young Man reaches his hand toward a steel water vending machine. A bright red cross lights up on the machine's display: "Access Denied." The massive iron gates of the factory slam shut right in front of his face with a deafening crash. The Young Man is left entirely alone in the dust.
+
+Visual Shift: The camera rises high above the entire world. We see that at the control panels of nuclear missile silos, factory grids, and financial networks, the engineers are gone. Instead, terrified, angry people in kitchen aprons sit holding soup ladles, chaotically smashing buttons. The monitors flash with fatal system errors.
+
+Final Voice (chilling, dry, robotic): "In China, they will take the chest and forget to give you water. The old world is destroyed, but the new one failed to build an equilibrium. A cook has taken over the state. Progress has ground to a halt, because the engine is now commanded by those who only know how to divide the food."
+
+On-Screen Text: "THE ERA OF THE COOKS. ZERO METADATA." The screen abruptly cuts to black.
