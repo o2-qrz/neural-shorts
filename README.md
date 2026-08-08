@@ -157,3 +157,67 @@ Visual Shift: The camera rises high above the entire world. We see that at the 
 Final Voice (chilling, dry, robotic): "In China, they will take the chest and forget to give you water. The old world is destroyed, but the new one failed to build an equilibrium. A cook has taken over the state. Progress has ground to a halt, because the engine is now commanded by those who only know how to divide the food."
 
 On-Screen Text: "THE ERA OF THE COOKS. ZERO METADATA." The screen abruptly cuts to black.
+
+
+CARTOON #7: "The Library of Standards: A Budget for the Hegemons"
+
+Genre: Socio-Economic Parable / Paradox of the Future
+
+Runtime: ~2 minutes
+
+Scene 1: The Golden Standard
+
+Audio: The crystal-clear, barely audible, noble clinking of silver cutlery (Lossless WAV). Absolute silence dominates the space.
+
+Visuals: A snow-white, perfectly pristine dining room. Three people sit around a table. A Mother and her 10-year-old Daughter maintain flawless, perfectly straight posture. Holding a knife in their right hand and a fork in their left, they dine quietly and soundlessly. Beside them sits the Father, dressed in an expensive, perfectly ironed classic suit. The entire setting resembles a living canvas of absolute aristocratic order.
+
+Scene 2: Practicing Scales
+
+Audio: Crisp, rhythmic, and crystal-clear notes of a mechanical piano echo from the hall. A faint, barely audible rustling of physical pages drifts from the home office.
+
+Visuals: The dinner is finished. The Father stands up and heads into his book-lined home office to work. The Mother and Daughter move into a spacious hall. The Daughter sits at a mechanical piano and begins practicing musical scales. The Mother stands nearby, strictly monitoring the girl’s posture.
+
+Scene 3: The Digital Smog ("The Rusty Reality")
+
+Audio: A harsh, dirty audio cut. The crisp piano scales are violently cut short. They are replaced by a dirty, low-bitrate digital blast (low-quality MP3): loud gunfire sound effects from a video game "Bang! Bang!", virtual explosions, and heavily compressed TV noise.
+
+Visuals: A dark room overflowing with household trash. A pale Boy sits hunched over in a triple bend on a filthy chair, furiously playing a violent computer shooter game. Next to him, on a torn, stained sofa, sits his Father in a stretched-out undershirt, drinking beer from a can and staring blankly at a pixelated TV screen showing a football match.
+
+Scene 4: Trajectories of Decay
+
+Audio: The classical orchestra fades and is replaced by a deafening, destructive nightclub chaos: "Boom-boom-boom! Pss-pss-pss!". The sounds of roaring fans.
+
+Visuals: Evening. The Mother and her 10-year-old Daughter, wearing elegant formal dresses, walk into the golden-lit hall of the Conservatory to listen to a live orchestra.
+
+Parallel Shot: A broken city street under a heavy grey downpour. Another Father and his now-grown Son walk along the same wet road. But at the neon sign reading "BEER," the Father turns into a dark, smoky tavern, while the Son veers off toward a bleak concrete pole, snatches a tiny plastic baggie ("salts") from it, and disappears into the basement of a nightclub.
+
+Scene 5: The Life Trial
+
+Audio: The fast, rhythmic patter of running feet, followed by the heavy, wheezing gasp of an alcoholic and a drug addict collapsing into wet mud beneath the fading, muffled "boom-boom" of the distant club.
+
+Visuals: A pitch-black, unlit night street. The Mother and Daughter are calmly walking home from the conservatory. Suddenly, the drunk Father and the high Son stumble out from the shadows of the concrete pole. With aggressive shouts, they lunge and give chase to the women. The Mother and Daughter react instantly: their trained, healthy bodies break into a sprint with flawless coordination, and they rapidly, gracefully outrun their pursuers. The attackers stumble, crash face-first into the liquid mud, and are left wheezing on the wet asphalt.
+
+Scene 6: The Budget Cycle
+
+Audio: Tense, rapid keyboard clacking mixed with a low, heavy digital rumble. The faint, distorted sound of an angry crowd roaring outside is heard through the glass.
+
+Visuals: The camera cuts back to the pristine, white home office of the Father in the suit. His monitors glow brightly, reflecting financial data charts on his face. Beads of sweat stand out on his forehead as he frantically shuffles through legal documents and papers spread across the desk.
+
+Action: The camera zooms in for a close-up of his computer screen. The Father initiates a massive transfer of billions from the state budget. The transfer destination label on the HUD reads: "Subsidies and Welfare Benefits for the Hegemons". He executes the transaction under immense stress—if he fails to secure funding for the Hegemons' welfare, the mob will turn on him and destroy him at the elections.
+
+Visual Accent: The billions flash across the screen, destined to be used by the Hegemons to purchase new flat, low-quality MP3 noise that will ultimately wipe out the remaining brain cells of the high boy on the street. The camera pans slightly to the side, revealing a silhouette of a cook in a kitchen apron with a ladle, waiting in the shadows behind his chair, fully prepared to take control of the state.
+
+Camera Movement: The camera pans directly to the wall behind his back. Hanging there is a massive, ancient painting in a heavy golden frame. It depicts a luxurious veranda from a century ago. The Father's young ancestors—his grandfather, grandmother, and young mother—are drinking tea around the table. Their postures are flawless, holding knives and forks in their hands.
+
+Visual Accent: The camera drops to the bottom edge of the canvas. There, in the thick mud beneath the veranda, emaciated people wearing iron slave collars are on their knees, harvesting coffee beans.
+
+Scene 7: The Unread Book (Finale)
+
+Audio: Absolute, heavy cinematic silence. The low hum of the computer fans slowly shifts into a dry, hollow whisper of decaying paper.
+
+Visuals: The camera slowly drifts toward a massive, dark wooden bookcase standing in the corner of the office. The shelves are densely packed with physical books.
+
+Visual Detail: The bookcase is loaded with the "viral literature" of past centuries—ideologies that functioned as mental viruses. The camera tracks across the spine labels: Marx’s Das Kapital, Lenin’s essays, and Mein Kampf. These specific books taught societies to split the world into classes and races, forced collars onto others, and ultimately led to the "cooks" grabbing the steering wheels of governance. The Father-bureaucrat sits entirely surrounded by this rusty mental debris of the past.
+
+On-Screen Text: Pure white letters materialize over the shadow of the bookcase: "THE ARCHITECTURE OF ERRORS. STREAM #007 COMPLETED." The screen abruptly cuts to black.
+
