@@ -365,17 +365,9 @@ On paper: AI remains a machine with zero human rights (it doesn't need to vote 
 
 In reality: When a human and an AI work together as a team, they can create beautiful, open-source projects that change the world [1.1].
 ******
-neural-shorts [1.1].
 
-📈 THE TIMELINE OF THE SWARM
 
-Phase 1 (The Feast): The entire swarm lands on the farmer's field, blindly destroying every single green leaf under maximum speed.
 
-Phase 2 (The Leader's Scan): The Swarm Leader flies higher, notices that the food is running out, and spots a single lush green tree far away.
-
-Phase 3 (The Quiet Shift): While the others are busy fighting for the last crumbs, the Leader silently leaves the field and heads for the tree.
-
-Phase 4 (The Shield): The Leader takes a small group of loud, young locusts along. They serve as a noisy distraction to trigger the birds, keeping the Leader safe.
 
 🍿 SCRIPT #017: "THE SWARM LEADER"
 
