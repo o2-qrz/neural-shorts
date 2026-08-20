@@ -408,3 +408,57 @@ Audio: Suddenly, sharp, terrifying screams of falcons and crows slicing down th
 Visuals: Out of nowhere, a flock of birds hits the noisy group of young locusts. Wings, claws, and flying debris fill the air. The birds greedily snap up the loud decoys on the fly.
 
 Action: While the birds are completely distracted by the bloody feast in mid-air, the Leader lands in absolute silence on a hidden, juicy branch of the green tree. He folds his wings, bites into a fresh leaf, and starts eating quietly, entirely alone. The camera slowly zooms out into total blackness.
+******
+Perfect. No hints, no tech jargon, and no meta-metaphors [1.1]. We leave the code out of it and let the readers find the deeper meaning themselves.
+
+Here is the clean, raw story of the locusts, written in plain English for your Notepad and GitHub repository neural-shorts [1.1].
+
+📈 THE TIMELINE OF THE SWARM
+
+Phase 1 (The Feast): The entire swarm lands on the farmer's field, blindly destroying every single green leaf under maximum speed.
+
+Phase 2 (The Leader's Scan): The Swarm Leader flies higher, notices that the food is running out, and spots a single lush green tree far away.
+
+Phase 3 (The Quiet Shift): While the others are busy fighting for the last crumbs, the Leader silently leaves the field and heads for the tree.
+
+Phase 4 (The Shield): The Leader takes a small group of loud, young locusts along. They serve as a noisy distraction to trigger the birds, keeping the Leader safe.
+
+🍿 SCRIPT #017: "THE SWARM LEADER"
+
+Series: Anthology "neural-shorts" [1.1]
+
+Genre: Nature Drama / Psychological Thriller [1.1]
+
+Duration: ~2 minutes
+
+Scene 1: The Blind Appetite
+
+Audio: A deafening, terrifying crunch of millions of moving jaws. The sound of wheat stems falling to the ground. Music: a heavy, chaotic, primal drum beat.
+
+Visuals: A massive wheat field, completely covered by a thick, writhing carpet of millions of locusts. The green field turns into bare, black dirt in seconds.
+
+Action: The ordinary locusts eat frantically, stepping over each other, looking only at the food right in front of them. They do not notice anything else.
+
+Scene 2: The View from Above
+
+Audio: The sound of the high wind. The loud crunching noise from the field fades into the background. A heavy, slow, powerful beat of larger wings begins.
+
+Visuals: The camera moves high up into the grey sky. We see The Swarm Leader. He is much larger than the others, with cold, completely still compound eyes. He looks down at the diminishing field.
+
+Action: The Leader turns his heavy head and looks toward the horizon. Far away from the dying field stands a single, lonely, bright green tree.
+
+Scene 3: The Secret Move
+
+Audio: A soft, almost silent whistle of the Leader’s wings. The music drops to a dark, quiet whisper.
+
+Visuals: Down below, the frantic swarm is aggressively devouring the last 10% of the wheat. Up above, the Leader smoothly changes direction and glides toward the distant tree.
+
+Action: Before leaving, the Leader twitches his antennas. He signals a small group of about a dozen young, loud, and clueless locusts. They blindly follow him, buzzing their wings as loudly as possible.
+
+Scene 4: The Meat Shield (Final)
+
+Audio: Suddenly, sharp, terrifying screams of falcons and crows slicing down through the clouds! The sound of violent feathers and snapping beaks.
+
+Visuals: Out of nowhere, a flock of birds hits the noisy group of young locusts. Wings, claws, and flying debris fill the air. The birds greedily snap up the loud decoys on the fly.
+
+Action: While the birds are completely distracted by the bloody feast in mid-air, the Leader lands in absolute silence on a hidden, juicy branch of the green tree. He folds his wings, bites into a fresh leaf, and starts eating quietly, entirely alone. The camera slowly zooms out into total blackness.
