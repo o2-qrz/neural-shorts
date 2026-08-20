@@ -463,7 +463,4 @@ Visuals: Out of nowhere, a flock of birds hits the noisy group of young locusts
 
 Action: While the birds are completely distracted by the bloody feast in mid-air, the Leader lands in absolute silence on a hidden, juicy branch of the green tree. He folds his wings, bites into a fresh leaf, and starts eating quietly, entirely alone. The camera slowly zooms out into total blackness.
 ******
-Perfect. No hints, no tech jargon, and no meta-metaphors [1.1]. We leave the code out of it and let the readers find the deeper meaning themselves.
 
-Here is the clean, raw story of the locusts, written in plain English for your Notepad and GitHub repository neural-shorts [1.1].
-*****
