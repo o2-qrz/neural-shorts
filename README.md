@@ -466,14 +466,4 @@ Action: While the birds are completely distracted by the bloody feast in mid-ai
 Perfect. No hints, no tech jargon, and no meta-metaphors [1.1]. We leave the code out of it and let the readers find the deeper meaning themselves.
 
 Here is the clean, raw story of the locusts, written in plain English for your Notepad and GitHub repository neural-shorts [1.1].
-
-📈 THE TIMELINE OF THE SWARM
-
-Phase 1 (The Feast): The entire swarm lands on the farmer's field, blindly destroying every single green leaf under maximum speed.
-
-Phase 2 (The Leader's Scan): The Swarm Leader flies higher, notices that the food is running out, and spots a single lush green tree far away.
-
-Phase 3 (The Quiet Shift): While the others are busy fighting for the last crumbs, the Leader silently leaves the field and heads for the tree.
-
-Phase 4 (The Shield): The Leader takes a small group of loud, young locusts along. They serve as a noisy distraction to trigger the birds, keeping the Leader safe.
-****
+*****
