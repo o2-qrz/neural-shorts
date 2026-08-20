@@ -461,6 +461,6 @@ Audio: Suddenly, sharp, terrifying screams of falcons and crows slicing down th
 
 Visuals: Out of nowhere, a flock of birds hits the noisy group of young locusts. Wings, claws, and flying debris fill the air. The birds greedily snap up the loud decoys on the fly.
 
-Action: While the birds are completely distracted by the bloody feast in mid-air, the Leader lands in absolute silence on a hidden, juicy branch of the green tree. He folds his wings, bites into a fresh leaf, and starts eating quietly, entirely alone. The camera slowly zooms out into total blackness.
+
 ******
 
