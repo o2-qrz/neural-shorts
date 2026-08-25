@@ -455,15 +455,8 @@ Visuals: Down below, the frantic swarm is aggressively devouring the last 10% o
 
 Action: Before leaving, the Leader twitches his antennas. He signals a small group of about a dozen young, loud, and clueless locusts. They blindly follow him, buzzing their wings as loudly as possible.
 
-Scene 4: The Meat Shield (Final)
-
-Audio: Suddenly, sharp, terrifying screams of falcons and crows slicing down through the clouds! The sound of violent feathers and snapping beaks.
-
-Visuals: Out of nowhere, a flock of birds hits the noisy group of young locusts. Wings, claws, and flying debris fill the air. The birds greedily snap up the loud decoys on the fly.
-
 
 ******
-markdown
 
 #### Scene 4: The Meat Shield and the Golden Parachute (Final) * **Audio:** Sudden, sharp, and violent shrieks of falcons and crows diving through the clouds! The sound of whistling feathers and snapping beaks fills the track. * **Visuals:** Out of nowhere, a flock of predators strikes the noisy group of young and naive locusts. Wings, talons, and shredded debris clutter the air. The birds greedily devour the loud decoy directly mid-flight. * **Action:** While the predators are completely distracted by the bloody feast in the air, the Leader silently lands on a hidden, lush green tree branch. He folds his wings, drives his jaws into a fresh leaf, and begins to eat calmly in absolute isolation. He has consumed what belongs to others. * **Final Voice (deep, dry, mechanical drone):** "The swarm thinks the Leader is a pragmatist guiding them to the promised land. But the leader is a mere scoundrel. He robbed the farmer and despicably deceived his brethren, turning them into raw meat for the predators. Leaders always secure a golden parachute woven out of other people's lives. Truth has no edges. Only flow." * **On-Screen Text:** "SWARM MANIPULATION ACTIVE. DECOY VECTOR DETECTED. SCRIPT #017 COMPLETED." The screen abruptly cuts to absolute black. 
 
