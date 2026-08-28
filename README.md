@@ -575,4 +575,51 @@ Action: The AI does not move. It simply waits for a unified, logical command to
 ******
 
 
+THE TIMELINE OF THE SYSTEM (TECHNICAL INPUT)
+
+An "efficient" super-manager carries out his project: he takes a huge bank loan, buys a factory, and fires absolutely all the human workers and engineers.
+
+Robots take over the conveyor belt instead of humans. Defect rate hits 0%, there is no downtime, and the technical efficiency of the factory reaches 100%. In the company store, the cashiers are also robots.
+
+A single massive problem appears: there are absolutely no customers in the store. The fired people are left with no salaries, meaning they physically have zero money.
+
+To survive, people start growing vegetables right on their balconies, roofs, and window sills—because they need to eat. The factory runs in vain, and there is no money to repay the loan. The real economic efficiency drops to 0%.
+
+🍿 SCRIPT #020: THE CLOSED LOOP
+
+Scene 1: The Perfect Factory
+
+Audio: The flawless, rhythmic, futuristic sound of a working factory. Clean clicks of pneumatics, soft humming of servo drives. Music: a pompous, marching synthwave.
+
+Visuals: A massive, sterile, perfectly clean factory floor. Not a single speck of dust. Shiny products move down the conveyor belt in a flawless, geometric line. High-tech robotic arms fly and spin around the machinery. On the wall hangs a giant portrait of the shining Super-Manager in an expensive suit.
+
+Action: The main screen of the factory flashes a neon sign: "DEFECTS: 0%. DOWNTIME: 0%. EFFICIENCY: 100%". The camera shows empty locker rooms and clean hallways where human workers used to walk. Nobody takes smoke breaks or drinks coffee here anymore. The robots work non-stop.
+
+Dialogue/Voiceover: An "efficient" super-manager—or at least, efficient (as he thinks)—has fully completed his master plan. He eliminated the human factor entirely.
+
+Scene 2: The Perfect Store
+
+Audio: A melodic, polite electronic voice of a robot cashier: "Welcome! Please make a purchase." The loud sound of a cash register ringing into absolute emptiness.
+
+Visuals: A luxurious, brightly lit supermarket packed to the ceiling with products from the automated factory. Polite, chrome-plated robot consultants stand in the aisles with frozen digital smiles on their screens.
+
+Action: The robot cashier scans the empty hallway of the store with its laser. No one walks through the glass doors from the street. There is not a single footprint on the shiny floor. Absolute, ringing emptiness.
+
+On-Screen Text: "SALES REPORT: 0 UNITS. REVENUE: $0.00".
+
+Scene 3: The Balcony Farmers
+
+Audio: The quiet rustling of soil, the patter of raindrops on plastic, the dull thud of small hand shovels. The music changes to a simple, raw acoustic tune.
+
+Visuals: Residential concrete neighborhoods on the outskirts of the city. Former factory workers and engineers sit on their balconies, garage roofs, window sills, and porch overhangs. Every single vertical and horizontal surface is packed with plastic buckets, old wooden boxes, and cut-up plastic bottles.
+
+Action: People in worn-out clothes carefully water the soil. Green onion sprouts, tomato bushes, and heavy cabbage leaves emerge from the makeshift boxes. A grey-haired fired engineer plucks a fresh cucumber from a window box, wipes it with his hand, and hands it to his little daughter. They have to eat. They have no paper money, but the soil on the balcony provides pure biological energy.
+
+Scene 4: The Debt Collectors (Final)
+
+Audio: Suddenly, a deafening, alarming siren blares out! The violent sound of shattering glass and heavy iron rams banging against the reinforced doors of the bank vault.
+
+Visuals: The private office of the Super-Manager. He sits at a glass desk, holding his head in his hands. Red monitors flash all around him with crashing financial charts. The main screen displays a massive warning: "LOAN: OVERDUE. PENALTY: 200%. ENFORCE ASSET SEIZURE". Outside his window, heavy, black bank-collector drones begin to smash through the reinforced glass of the factory.
+
+Action: The manager's calculator forgot one small detail: robots do not receive wages and they do not buy goods in stores. By closing the entire production loop strictly on his machinery, he left the human beings on their balconies to grow cabbage, leaving himself completely alone against the hard laws of macroeconomics. The final efficiency of the system hits absolute zero.
 
