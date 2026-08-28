@@ -618,3 +618,4 @@ Visuals: The private office of the Super-Manager. He sits at a glass desk, hold
 
 Action: The manager's calculator forgot one small detail: robots do not receive wages and they do not buy goods in stores. By closing the entire production loop strictly on his machinery, he left the human beings on their balconies to grow cabbage, leaving himself completely alone against the hard laws of macroeconomics. The final efficiency of the system hits absolute zero.
 
+*****
