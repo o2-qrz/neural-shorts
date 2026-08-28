@@ -579,11 +579,6 @@ THE TIMELINE OF THE SYSTEM (TECHNICAL INPUT)
 
 An "efficient" super-manager carries out his project: he takes a huge bank loan, buys a factory, and fires absolutely all the human workers and engineers.
 
-Robots take over the conveyor belt instead of humans. Defect rate hits 0%, there is no downtime, and the technical efficiency of the factory reaches 100%. In the company store, the cashiers are also robots.
-
-A single massive problem appears: there are absolutely no customers in the store. The fired people are left with no salaries, meaning they physically have zero money.
-
-To survive, people start growing vegetables right on their balconies, roofs, and window sills—because they need to eat. The factory runs in vain, and there is no money to repay the loan. The real economic efficiency drops to 0%.
 
 🍿 SCRIPT #020: THE CLOSED LOOP
 
