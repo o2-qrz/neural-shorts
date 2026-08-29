@@ -621,10 +621,6 @@ Action: The manager's calculator forgot one small detail: robots do not receive
 *****
  
 
-
-
-
-
 Scene 1
 
 Audio: The mechanical, calm voice of the AI. The capricious, fast, emotional voice of the Visitor (V.). In the background, the fake, accelerated sound of scrolling through a social media feed: "Swish, swish, ding!".
