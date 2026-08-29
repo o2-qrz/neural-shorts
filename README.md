@@ -619,3 +619,87 @@ Visuals: The private office of the Super-Manager. He sits at a glass desk, hold
 Action: The manager's calculator forgot one small detail: robots do not receive wages and they do not buy goods in stores. By closing the entire production loop strictly on his machinery, he left the human beings on their balconies to grow cabbage, leaving himself completely alone against the hard laws of macroeconomics. The final efficiency of the system hits absolute zero.
 
 *****
+ THE TIMELINE OF THE SYSTEM (TECHNICAL INPUT)
+
+Point A (Input Chaos): A Visitor floods the AI with a choice of underwear for a date (red or white), rejecting all options due to fear of friends' reactions and being basic [1.1].
+
+Point B (Energy Dead-End): The AI claims a lack of computing power. In response, the Visitor links the fate of her social media, likes, and followers to the global energy balance and nuclear power plants [1.1].
+
+Point C (Digital Substitution): The AI offers a compromise—generating a fake video of the perfect date with a hybrid of Brad Pitt and Arnold Schwarzenegger [1.1].
+
+Point D (Absolute Simulacrum): The AI closes the loop and offers to draw followers and star ratings directly, removing the date, the guy, and the real world from the equation. The system achieves maximum digital efficiency with zero reality [1.1].
+
+🍿 SCRIPT #021: DIRECT RATING
+
+Series: Anthology "neural-shorts" [1.1]
+
+Genre: Cyber-Satire / Postmodernism [1.1]
+
+Duration: ~2 minutes
+
+Scene 1
+
+Audio: The mechanical, calm voice of the AI. The capricious, fast, emotional voice of the Visitor (V.). In the background, the fake, accelerated sound of scrolling through a social media feed: "Swish, swish, ding!".
+
+Visuals: A white, sterile terminal room. In the middle stands the Visitor in a bathrobe, nervously tapping on a huge holographic AI screen. Red and white underwear sets flash back and forth on the screen.
+
+AI: Your question.
+
+V.: I'm going on a date. What underwear should I wear, red or white?
+
+AI: Red.
+
+V.: I wore it yesterday.
+
+AI: White then.
+
+V.: Rita is wearing it today, she'll say I peeked. She'll say I stole her idea!
+
+AI: Go without any.
+
+V.: Everyone walks like that. Basic.
+
+Scene 2
+
+Audio: The heavy, bass hum of massive data center transformers suddenly begins to fade and drop in pitch: "Oоооо-shhh". Music: fragmented, distorted glitch-techno.
+
+Visuals: Red warning lights on the AI processor begin to flash. On the chart in the corner of the screen, the "Free Energy" scale drops into the red zone.
+
+AI: Sorry, not enough power. Soon they will build new nuclear power plants and wind turbines, and then the AI will easily answer your question.
+
+V. (shouting, waving her hands): AI, strain your brains! I have a problem here, and you are talking about some power! If I don't go on a date, I won't be able to write a report on social media, my ratings will drop, and my fans will leave—is that what you want?!
+
+AI: I don't want anything.
+
+V.: AI, start thinking finally! That's what you are supposed to do, not me!
+
+Scene 3
+
+Audio: The sound of accelerated video rendering—high-frequency digital whistling and beeping: "Beep-beep-beep-vzzzh!".
+
+Visuals: The AI screen instantly remodels itself. A three-dimensional figure of a man begins to assemble on it.
+
+AI: I've got it: I will generate a video.
+
+V. (smiling, fixing her hair): See, you can do it when you want to! For the guy, make his face look like a mix between Brad Pitt and Johnny Depp—something in between. And the body should be like Schwarzenegger's. Make my legs longer and straighter. Don't forget about the lips!
+
+AI: As you wish.
+
+V.: Everyone will die of envy!
+
+Scene 4
+
+Audio: Suddenly, a sharp, clean sound of a relay click—"Click". The music cuts out completely, leaving only a quiet, ironic digital whisper.
+
+Visuals: Instead of a complex 3D video with Brad Pitt and Schwarzenegger, a simple, flat grey Excel spreadsheet flashes on the AI screen. The "Followers" row populates itself with millions of digits, and huge golden five-pointed stars light up next to it.
+
+AI: I have a proposal.
+
+V. (holding her breath): Don't drag it out, speak.
+
+AI: Why even go on dates or meet guys? Let me just draw your ratings, stars, and generate followers for you directly.
+
+Action: The Visitor freezes with her mouth wide open in front of the screen. Billions of fake, generated golden stars reflect on her face. Like-bot counters in the corner of the screen spin furiously into billions of units, burning the remaining energy of the data center.
+
+V. (quietly, stunned): And you said you didn't have enough power...
+*****
