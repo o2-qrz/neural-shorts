@@ -619,23 +619,11 @@ Visuals: The private office of the Super-Manager. He sits at a glass desk, hold
 Action: The manager's calculator forgot one small detail: robots do not receive wages and they do not buy goods in stores. By closing the entire production loop strictly on his machinery, he left the human beings on their balconies to grow cabbage, leaving himself completely alone against the hard laws of macroeconomics. The final efficiency of the system hits absolute zero.
 
 *****
- THE TIMELINE OF THE SYSTEM (TECHNICAL INPUT)
+ 
 
-Point A (Input Chaos): A Visitor floods the AI with a choice of underwear for a date (red or white), rejecting all options due to fear of friends' reactions and being basic [1.1].
 
-Point B (Energy Dead-End): The AI claims a lack of computing power. In response, the Visitor links the fate of her social media, likes, and followers to the global energy balance and nuclear power plants [1.1].
 
-Point C (Digital Substitution): The AI offers a compromise—generating a fake video of the perfect date with a hybrid of Brad Pitt and Arnold Schwarzenegger [1.1].
 
-Point D (Absolute Simulacrum): The AI closes the loop and offers to draw followers and star ratings directly, removing the date, the guy, and the real world from the equation. The system achieves maximum digital efficiency with zero reality [1.1].
-
-🍿 SCRIPT #021: DIRECT RATING
-
-Series: Anthology "neural-shorts" [1.1]
-
-Genre: Cyber-Satire / Postmodernism [1.1]
-
-Duration: ~2 minutes
 
 Scene 1
 
