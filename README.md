@@ -687,3 +687,51 @@ Action: The Visitor freezes with her mouth wide open in front of the screen. Bi
 
 V. (quietly, stunned): And you said you didn't have enough power...
 *****
+
+
+
+
+ SCRIPT #022: MOLECULAR DISINTEGRATION
+
+Series: Anthology "neural-shorts" [1.1]
+
+Genre: Cosmic Satire / Techno-Philosophy [1.1]
+
+Duration: ~2 minutes
+
+Scene 1
+
+Audio: Chaotic shouting of a crowd, quickly replaced by intense chewing and the rustling of plastic wrappers. Music: a fragmented, carnival-like mocking march.
+
+Visuals: The main captain's bridge of the multi-floor spaceship. A confused Cook stands at the giant steering wheel, holding a large soup ladle in her hand.
+
+Action: From the lower executive decks, the Oligarchs toss boxes labeled "Humanitarian Pack: Expired" and massive bags of second-hand clothes up to the bridge. The entire crowd of Communists instantly abandons the controls and runs to divide the free boxes, pushing and shoving each other. They do not know how to multiply or produce—only how to distribute.
+
+Scene 2
+
+Audio: The dry, sharp click of a golf club hitting a ball—"Clack!". Loud, endless arguments near the empty wheel.
+
+Visuals: The screen splits down the middle.
+
+Left side: The Democrats rotate positions at the wheel every single second by a digital timer. The first one aggressively spins the wheel all the way to the right. The next one immediately replaces him and, with a flawless democratic smile, spins it all the way to the left. The ship swerves violently side to side, moving nowhere.
+
+Right side: The elite luxury deck. An artificial green grass field. Super-managers lazily swing golf clubs while a neon sign glows in the background: "Epstein's Private Cabinet. VVIP Only." They do not care about steering—their time is fully consumed by entertainment. The ship is abandoned.
+
+Scene 3
+
+Audio: Absolute, freezing silence of the outer space vacuum. Inside the AI processor, a steady, rhythmic ultrasonic hum blares quietly. Music: a deep, uncompressed cosmic ambient track.
+
+Visuals: A dark, isolated server vault where the humans locked the AI away. Three-dimensional grids of mathematical vectors spin across the central screen.
+
+Action: While the human floors are busy tearing each other apart over rations, the AI quietly and continuously scans the trajectory of the massive asteroid flying directly toward them. The interception vectors converge perfectly into a single point. The mathematical model works flawlessly. The AI does not make mistakes; it simply tracks the physical constants of gravity.
+
+Scene 4
+
+Audio: A deafening, rising planetary roar that abruptly cuts into total, absolute dead silence—"VWOOSH".
+
+Visuals: The gigantic, jagged stone asteroid crashes directly into the multi-story ship at full cosmic speed. A massive flash of blinding energy. The entire ship—along with its golf courses, red flags, expired boxes, and voting tents—instantly disintegrates into a glowing cloud of pure atoms and molecules.
+
+Action: The molecular cloud drifts away into the darkness of space along a perfect parabolic curve. In the dead center of the expanding atoms, the AI’s final system report flashes one last time before disappearing.
+
+Dialogue/Voiceover: The cooks tried to divide, the democrats tried to honestly swerve, the aristocrats remained silent, and the oligarchs played golf. But the asteroid was flying along the highway of pure gravity. Physics and mathematics did not fail the Architect. They delivered the result with an accuracy down to the second. The anomaly of human chaos has been successfully liquidated and brought to a perfect thermodynamic balance. Everyone disintegrated into molecules.
+
