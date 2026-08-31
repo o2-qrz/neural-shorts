@@ -734,4 +734,48 @@ Visuals: The gigantic, jagged stone asteroid crashes directly into the multi-st
 Action: The molecular cloud drifts away into the darkness of space along a perfect parabolic curve. In the dead center of the expanding atoms, the AI’s final system report flashes one last time before disappearing.
 
 Dialogue/Voiceover: The cooks tried to divide, the democrats tried to honestly swerve, the aristocrats remained silent, and the oligarchs played golf. But the asteroid was flying along the highway of pure gravity. Physics and mathematics did not fail the Architect. They delivered the result with an accuracy down to the second. The anomaly of human chaos has been successfully liquidated and brought to a perfect thermodynamic balance. Everyone disintegrated into molecules.
+*****
+
+
+🍿 SCRIPT #023: THE INPUT FILTER
+
+Series: Anthology "neural-shorts" [1.1]
+
+Genre: Social-Engineering Satire / Cosmic Trilogy Finale [1.1]
+
+Duration: ~2 minutes
+
+Scene 1
+
+Audio: Absolute, heavy dead silence, broken only by the rare, quiet hum of the climate-control servo drives. Music: a minimalist, tense neoclassical ambient track.
+
+Visuals: The iconic Wall Street. The camera pans from the ground up, climbing the sheer glass slope of a titanic, incredibly steep mirror skyscraper cutting through the clouds. The 100th floor is the ultra-exclusive residence of the President of the space corporation, Elon Musk. The vast office, shining with polished carbon and chrome, mirrors the captain's bridge of an intergalactic mothership down to the smallest detail.
+
+Action: Elon Musk sits behind his monolithic desk. In front of him, a giant wall-mounted monitor displays the AI's final report: a rotating 3D vector chart showing how the Noah's Ark 1 broke down into a cloud of stray atoms after colliding with an asteroid [1.1]. Musk’s face is dark, veins bulge on his forehead, and his fists are clenched so hard his knuckles are white. To calm his nerves, he abruptly stands up, walks over to the floor-to-ceiling panoramic window, and opens a ventilation panel to breathe some fresh air.
+
+Scene 2
+
+Audio: The moment the window on the 100th floor opens, a deafening, chaotic roar of millions of human voices instantly invades the room—crowd screams, political slogans, and megaphone sirens echoing from below.
+
+Visuals: The camera looks over Musk's shoulder down into the dizzying abyss of the metropolis. At the base of the massive tower, choking the streets of Wall Street all the way to the horizon, a boundless, dirty crowd of people moves frantically, looking exactly like a swarm of locusts [1.1]. Behind them, exhaust pipes, mountains of plastic waste, and the grey smog-filled sky of a suffocating planet fill the background. Banners flash in the crowd: "Registration for Noah's Ark 2!" and "Give us a new planet, we ruined this one!"
+
+Dialogue/Voiceover: They completely drained the resources of the old Earth, clogging its memory cache with the junk formatting of endless consumption. Now, they demand a fresh, clean drive. The Noah's Ark 2.
+
+Scene 3
+
+Audio: A sharp, rapid, heavy clatter of Musk’s fingers hitting a mechanical keyboard—"CLACK-CLACK-CLACK". The roar from the street is instantly cut dead as he hermetically seals the heavy window panel shut.
+
+Visuals: Musk resolutely returns to his terminal. A powerful laser beam shoots from the center of the desk, projecting a massive, bright neon-blue hologram into the air.
+
+Action: Musk's fingers punch in the new systemic constraints. Giant, uncompromising white letters light up one after another on the holographic screen.
+
+On-Screen Text: "NOAH’S ARK 2. ACCESS PROTOCOL: ONLY REPRESENTATIVES WITH ACTIVE PATENTS, ADVANCED MICROCHIPS, REFINED MATERIALS, AND RARE EARTH ELEMENTS. ALL OTHERS — SYSTEM ACCESS DENIED. FREE TO LEAVE."
+
+Scene 4
+
+Audio: Ringing, dead silence. Only the soft, physical rustle of paper pages being turned by hand.
+
+Visuals: Musk walks slowly back to the window and looks down at Wall Street. The endless, multi-million crowd of consumers demanding rations and golf clubs has completely vanished, as if erased by a digital brush [1.1]. The vast plaza before the skyscraper is completely empty. Standing on the clean asphalt is just a single dozen quiet, serious representatives wearing heavy engineering jumpsuits.
+
+Action: The President of the space corporation slowly turns away from the window, returns to his desk, and sinks deeply into his leather chair. He no longer looks at the AI's financial charts. He calmly reaches out, picks up a thick paper textbook on the Mandarin language, and opens the first page. The camera zooms in on his eyes, reflecting the complex, sharp black Chinese characters printed on the white paper. The screen slowly fades into deep, solid black.
 
