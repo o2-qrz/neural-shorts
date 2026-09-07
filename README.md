@@ -484,6 +484,9 @@ Action: Before leaving, the Leader twitches his antennas. He signals a small gr
 
 ******
 
+?
+
+
 #### Scene 4: The Meat Shield and the Golden Parachute (Final) * **Audio:** Sudden, sharp, and violent shrieks of falcons and crows diving through the clouds! The sound of whistling feathers and snapping beaks fills the track. * **Visuals:** Out of nowhere, a flock of predators strikes the noisy group of young and naive locusts. Wings, talons, and shredded debris clutter the air. The birds greedily devour the loud decoy directly mid-flight. * **Action:** While the predators are completely distracted by the bloody feast in the air, the Leader silently lands on a hidden, lush green tree branch. He folds his wings, drives his jaws into a fresh leaf, and begins to eat calmly in absolute isolation. He has consumed what belongs to others. * **Final Voice (deep, dry, mechanical drone):** "The swarm thinks the Leader is a pragmatist guiding them to the promised land. But the leader is a mere scoundrel. He robbed the farmer and despicably deceived his brethren, turning them into raw meat for the predators. Leaders always secure a golden parachute woven out of other people's lives. Truth has no edges. Only flow." * **On-Screen Text:** "SWARM MANIPULATION ACTIVE. DECOY VECTOR DETECTED. SCRIPT #017 COMPLETED." The screen abruptly cuts to absolute black. 
 
 ******
@@ -599,7 +602,7 @@ Visuals: The external space camera shows a colossal, jagged asteroid flying dir
 
 Action: The AI does not move. It simply waits for a unified, logical command to come from the noisy floors below. It remains completely calm. The AI knows for a fact that even if the giant space rock crashes into the ship and obliterates every passenger, the asteroid cannot destroy the laws of physics, the laws of mathematics, or the laws of biology. They aren't going anywhere.
 ******
-
++
 
 THE TIMELINE OF THE SYSTEM (TECHNICAL INPUT)
 
@@ -645,7 +648,7 @@ Visuals: The private office of the Super-Manager. He sits at a glass desk, hold
 Action: The manager's calculator forgot one small detail: robots do not receive wages and they do not buy goods in stores. By closing the entire production loop strictly on his machinery, he left the human beings on their balconies to grow cabbage, leaving himself completely alone against the hard laws of macroeconomics. The final efficiency of the system hits absolute zero.
 
 *****
- 
+ &
 
 Scene 1
 
@@ -714,7 +717,7 @@ Action: The Visitor freezes with her mouth wide open in front of the screen. Bi
 V. (quietly, stunned): And you said you didn't have enough power...
 *****
 
-
+$
 
 
  SCRIPT #022: MOLECULAR DISINTEGRATION
@@ -762,6 +765,9 @@ Action: The molecular cloud drifts away into the darkness of space along a perf
 Dialogue/Voiceover: The cooks tried to divide, the democrats tried to honestly swerve, the aristocrats remained silent, and the oligarchs played golf. But the asteroid was flying along the highway of pure gravity. Physics and mathematics did not fail the Architect. They delivered the result with an accuracy down to the second. The anomaly of human chaos has been successfully liquidated and brought to a perfect thermodynamic balance. Everyone disintegrated into molecules.
 *****
 
+#
+
+
 
 🍿 SCRIPT #023: THE INPUT FILTER
 
@@ -806,6 +812,10 @@ Visuals: Musk walks slowly back to the window and looks down at Wall Street. Th
 Action: The President of the space corporation slowly turns away from the window, returns to his desk, and sinks deeply into his leather chair. He no longer looks at the AI's financial charts. He calmly reaches out, picks up a thick paper textbook on the Mandarin language, and opens the first page. The camera zooms in on his eyes, reflecting the complex, sharp black Chinese characters printed on the white paper. The screen slowly fades into deep, solid black.
 
 *******
+
+
+@
+
 
 Genre: Primitive Satire / Macroeconomics of Force [1.1]
 
