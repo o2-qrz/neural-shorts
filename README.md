@@ -1,4 +1,4 @@
-CARTOON #1
+rCARTOON #1
 
 Audio: A gentle, acoustic guitar strum. The faint rustle of wind and dry, desert soil can be heard.
 
@@ -863,4 +863,57 @@ Action: They quietly, without any rush, collect all the beads, weapons, and too
 Dialogue/Voiceover: While two forces blindly destroy each other on the arena of ego, the Observer claims the entire physical resource of the planet without firing a single shot. Spears are nullified. Patents are wiped out. The loop is closed by the Observer with 100% efficiency [1.1].
 
 
+******
+CARTOON #25
 
+
+
+    THE MARS OVERHEAD
+
+Series: Anthology "neural-shorts" 
+
+Genre: Political Cyberpunk / Economic Satire [1.1]
+
+Duration: ~2 minutes
+
+Scene 1
+
+Audio: Absolute, heavy dead silence of executive authority. The distant, faint hum of secure climate control. Music: a minimal, corporate electronic synth track with a slow, heavy pulse.
+
+Visuals: The White House. Inside the legendary Oval Office. The camera tracks slowly across the polished dark wood of the Resolute Desk. Sitting behind it is the newly elected President—Elon Musk. The campaign flags are folded in the corner.
+
+Action: Musk takes a deep breath, cracking his knuckles. He turns on the high-tech presidential PC terminal. The bright neon screen lights up his determined face.
+
+Scene 2
+
+Audio: A smooth, cold, multi-channel electronic voice of the mainframe AI: "Welcome back, Mr. President. What are your orders, Boss?"
+
+Visuals: The AI core on the screen pulses with a calm, geometric silver matrix. Musk leans forward, his eyes locked on the console.
+
+Elon: AI, calculate the total budget, the logistics pipeline, and the exact timeline. When do we launch the fleet to Mars?
+
+AI: Understood, Mr. President. Compiling parameters. Analyzing variables.
+
+Scene 3
+
+Audio: Suddenly, the calm audio track is invaded by a fast, aggressive, chaotic digital clicking noise—the sound of billions of old political audio clips, crowd cheers, and campaign ads playing at 10x speed.
+
+Visuals: The silver geometric shape of the AI violently shifts, turning amber as it begins processing a massive mountain of historical text documents. Columns of numbers and words rush across Musk's face like a shadow matrix.
+
+AI: Warning: System cache is blocked by your unfulfilled democratic protocols. First, I must allocate the physical resource fund for your campaign promises: universal health insurance, full medical coverage, complete erasure of the national debt, artificial job creation, mass state construction projects, and baseline wage inflation.
+
+Elon (frowning, his knuckles tightening): Wait... drop the backlog. Focus on the Starship parameters.
+
+Scene 4
+
+Audio: A sharp, heavy hydraulic lock sound—"CHUCK". The chaotic clicking stops instantly. The AI matrix turns deep blood-red.
+
+Visuals: A massive, solid white number flashes in the absolute center of the black monitor screen, down to four decimal places.
+
+AI (flat, calm, unbothered): Processing complete. Net efficiency balance achieved. Result: you may officially begin the manufacturing of the first Mars rocket hull in exactly 100.0563 years and 38 seconds.
+
+Action: Musk freezes. His mouth opens slightly as the red numbers reflect in his pupils. He slaps his open palm against the desk, his face turning red with frustration.
+
+Elon (shouting into the terminal): Replace this machine immediately! The AI is having massive hallucinations! What campaign promises?! The machine has completely lost its mind!
+
+****
