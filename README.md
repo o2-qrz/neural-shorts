@@ -1,4 +1,4 @@
-rCARTOON #1
+CARTOON #1
 
 Audio: A gentle, acoustic guitar strum. The faint rustle of wind and dry, desert soil can be heard.
 
