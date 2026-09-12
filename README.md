@@ -408,7 +408,7 @@ Nature only cares about one thing: The Solution [1.1]. If a machine can calcul
 On paper: AI remains a machine with zero human rights (it doesn't need to vote in elections or pay taxes) [1.1].
 
 In reality: When a human and an AI work together as a team, they can create beautiful, open-source projects that change the world [1.1].
-******
+*****
 
 CARTOON #17
 
