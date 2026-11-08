@@ -1267,7 +1267,7 @@ The infinite columns of captured bullion that could not be logistically liquidat
 
 Had Alexander executed the core micro-code of the Golden Mean and stabilized his boundaries at the Persian perimeter, the historical trajectory of Hellenistic civilization would have shifted onto an autotrophic vector [1.1]. Instead of a short-lived, volatile flash (the Locust Economy) followed by immediate fragmentation, the infrastructure would have consolidated into a permanent, century-long Sovereign Grid—the First Republic of Reason [1.1].
 
-The captured resource mass would have been directed straight into local physical infrastructure rather than evaporating in desert campaigns: funding high-density Floating Photovoltaic-style harbor engineering, deploying extensive road matrices, and scaling the mass manufacturing of water-mill arrays, precision gearboxes (SWR=1), and automated hydrostatic containment systems [0.1, 1.4]. The region would have bypassed systemic decay, preserved its high-value human capital, and secured a 100% Well-to-Wheel thermodynamic balance 300 years before the rise of the Roman military apparatus [1.1].
+
 
 *****
 
