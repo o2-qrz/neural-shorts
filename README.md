@@ -38,7 +38,8 @@ n
 * **CARTOON #27:** The Velvet Trap (21st-Century Humanoid Patch) [1.4]
 * **CARTOON #28:** Molecular Disintegration (The Ultimate Standby Node) [1.4]
 * **CARTOON #29:** The Global Sponsorship Protocol (Anesthesia of Velvet-Trap) [1.4]
-* **CARTOON #30:** The Unzip Protocol (
+* **CARTOON #30:** The Unzip Protocol
+- **CARTOON #31:** The Carnot Equilibrium
 ****
 
 
@@ -1183,7 +1184,9 @@ CARTOON #30
 
 ******
 
-SCRIPT #37: "THE CARNOT EQUILIBRIUM" (THE TREATISE ON THE GOLDEN MEAN)
+SCRIPT #31: 
+
+"THE CARNOT EQUILIBRIUM" (THE TREATISE ON THE GOLDEN MEAN)
 
 Anthology: neural-shorts (Stories at the Intersection of Technology & Human Nature) [1.1]
 
